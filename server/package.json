@@ -1,0 +1,2 @@
+{
+  "name":"loteria-push-servidor","version":"1.0.0","private":true,"description":"Servidor del juego Lotería Push","main":"servidor.js","scripts":{"start":"node servidor.js","test":"node --test"},"engines":{"node":">=20"},"optionalDependencies":{"firebase-admin":"^13.0.0"}}
