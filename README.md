@@ -12,5 +12,6 @@ Proyecto de Flutter + Node.js inspirado en el manual **Manual_TDD_LoteriaPush**.
 
 <img width="1033" height="596" alt="image" src="https://github.com/user-attachments/assets/abbdde72-489c-420e-8627-0195765e76f8" />
 <img width="1025" height="587" alt="image" src="https://github.com/user-attachments/assets/b04ca066-dd0e-4454-a591-fcf8be4274a0" />
+<img width="1018" height="597" alt="image" src="https://github.com/user-attachments/assets/1ad2ac47-ede8-49ca-98f5-8caaa4598c40" />
 
 
